@@ -8,7 +8,6 @@ About
 Portfolio
 Contact
 Technologies Used
-Live Demo
 Installation
 Contact Information
 
@@ -28,9 +27,6 @@ Technologies Used
 HTML5: For structuring the content.
 CSS3: For styling and creating responsive layouts.
 JavaScript: For adding interactivity to the website.
-
-Live Demo
-You can view my portfolio live at: [https://github.com/Priincex0] 
 
 Installation
 To run this portfolio locally:
